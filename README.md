@@ -1,14 +1,16 @@
 # Baseball-Biomechanics-Data-Analytics
 
-Biomechanics Data Analysis Task
-Overview
+### Biomechanics Data Analysis Task
+## Overview
 This repository contains the analysis and solutions to a biomechanics data exercise involving kinematic and kinetic data from a pitcher. The dataset provided includes both full-signal continuous data and discrete metrics, covering pitches from the 1st and 7th innings. The task required statistical analysis, visualization, and evaluation of various biomechanical metrics to assess performance and potential areas for improvement.
 
-Task Details
-Dataset Description
+### Task Details
+## Dataset Description
 Signal File: Continuous data normalized from the peak leg lift to the follow-through phase of each pitch. Each frame corresponds to specific angular positions during the pitch cycle.
+
 Metrics File: Discrete data for individual pitches, including pitch characteristics and angular positions at key event markers. Each row represents one pitch.
-Key Objectives
+
+### Key Objectives
 Statistical Analysis: Calculate averages and standard deviations for each inning and pitch type for the following metrics:
 
 Pitch velocity
@@ -32,8 +34,9 @@ Insights and Future Directions: Highlight observations from the dataset and sugg
 
 Mechanical Breakdown: Perform a mechanical analysis of a selected pitcher or hitter, summarizing strengths and opportunities for improvement using relevant video evidence.
 
-Glossary of Metrics and Conventions
-Pitch Data
+## Glossary of Metrics and Conventions
+
+### Pitch Data
 Release Speed: Pitch velocity in mph.
 Spin Rate: Spin rate in rpm.
 Pitch Release Coordinates X: Horizontal release point in feet (1B (+) / 3B (-)).
