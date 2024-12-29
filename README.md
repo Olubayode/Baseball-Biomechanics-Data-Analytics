@@ -14,12 +14,19 @@ Metrics File: Discrete data for individual pitches, including pitch characterist
 Statistical Analysis: Calculate averages and standard deviations for each inning and pitch type for the following metrics:
 
 Pitch velocity
+
 Maximum shoulder external rotation
+
 Maximum elbow varus torque
+
 Peak pelvis rotational velocity
+
 Peak trunk rotational velocity
+
 Peak elbow extension velocity
+
 Peak shoulder internal rotation velocity
+
 Results were tabulated programmatically for clarity.
 
 Visualization: Generate kinematic sequencing velocity plots for fastballs. Separate plots were created for the 1st and 7th innings, using averages and ±1 standard deviation for the sequencing velocities.
